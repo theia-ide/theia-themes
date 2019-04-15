@@ -48,7 +48,7 @@
     "@theia/userstorage": "next",
     "@theia/variable-resolver": "next",
     "@theia/workspace": "next",
-    "@theia/themes": "0.0.0"
+    "@theia/themes": "*"
   },
   "devDependencies": {
     "@theia/cli": "next"
