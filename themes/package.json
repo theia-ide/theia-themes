@@ -10,8 +10,8 @@
     "src"
   ],
   "dependencies": {
-    "@theia/core": "next",
-    "@theia/monaco": "next"
+    "@theia/core": "latest",
+    "@theia/monaco": "latest"
   },
   "devDependencies": {
     "rimraf": "latest",
