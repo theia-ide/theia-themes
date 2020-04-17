@@ -1,4 +1,8 @@
 <div align="center">
+
+This repository is now **archived** since theming support in Theia-based applications are now contributed directly by VS Code theme extensions. Please see the relevant [issue](https://github.com/theia-ide/theia-themes/issues/3).
+
+
 <br/>
 <img src='./assets/images/theia-logo.svg' width="100">
 <h3>THEIA THEME PACK</h3>
